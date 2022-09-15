@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Abdulrhman alghamdi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrhmanmg0&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrhmanmg0" /> </p>
 
-<h3 align="center">I just started my journey in Ai ,I will do my best to share every little project here from things related to Ai ,wep devolpment ,desktop app ,IOS app and Universty projects every project will have a link below. </h3>
+<h3 align="center">I just started my journey in Ai ,I will do my best to share every little project here from things related to Ai ,web devlopment ,desktop app ,IOS app and Universty projects every project will have a link below. </h3>
 
 ---
 <img align= "right" src="https://user-images.githubusercontent.com/93158698/190493066-60f35d07-da31-4646-8804-13ddbbf869d3.gif" width="400" height="230" />
