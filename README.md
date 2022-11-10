@@ -23,6 +23,6 @@
 List of Projects:
 </h2>
 
-1.[OOP2 Project ](https://github.com/Abdulrhmanmg0/OOP2-Project-Java)
+1.[First OOP2 Project JAVA ](https://github.com/Abdulrhmanmg0/OOP2-Project-Java)
 
 ---
