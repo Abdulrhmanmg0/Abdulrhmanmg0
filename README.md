@@ -23,6 +23,6 @@
 List of Projects:
 </h2>
 
-1.[OOP2 Project ](https://github.com/Abdulrhmanmg0/Abdulrhmanmg0/blob/59ca083be1ee28f8e31d90a26a1898d811b456ed/First-project-OOP2)
+1.[OOP2 Project ](https://github.com/Abdulrhmanmg0/OOP2-Project-Java)
 
 ---
