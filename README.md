@@ -24,6 +24,7 @@ List of Projects:
 </h2>
 
 1.[Visualizing Sorting Algorithm JAVA ( 12 / 2022 ) ](https://github.com/Abdulrhmanmg0/Sorting-Algorithms-Visualizing)
+
 2.[First OOP2 Project JAVA ( 11 / 2022 ) ](https://github.com/Abdulrhmanmg0/OOP2-Project-Java)
 
 ---
