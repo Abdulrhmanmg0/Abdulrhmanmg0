@@ -1,4 +1,4 @@
-![Fate](https://user-images.githubusercontent.com/93158698/190458022-10551aa3-1559-4db2-9a1c-f6d32f1d4896.png)
+![Fate](https://user-images.githubusercontent.com/93158698/207932064-6b7724d6-f736-4365-a9ec-9d0694dc46b3.png)
 
 <h1 align="center">Hi, I'm Abdulrhman alghamdi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrhmanmg0&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrhmanmg0" /> </p>
