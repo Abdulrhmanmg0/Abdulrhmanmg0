@@ -1,13 +1,11 @@
-![Fate](https://user-images.githubusercontent.com/93158698/190458022-10551aa3-1559-4db2-9a1c-f6d32f1d4896.png)
+![Fate](https://user-images.githubusercontent.com/93158698/207932064-6b7724d6-f736-4365-a9ec-9d0694dc46b3.png)
 
 <h1 align="center">Hi, I'm Abdulrhman alghamdi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrhmanmg0&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrhmanmg0" /> </p>
 
-<h3 align="center" >I just started my journey in Ai ,I will do my best to share every little project here from things related to Ai ,web devlopment ,desktop app ,IOS app and Universty projects every project will have a link below. </h3>
+<h3 align="center">I just started my journey in Ai ,I will do my best to share every little project here from things related to Ai ,web devlopment ,desktop app ,IOS app and University projects every project will have a link below. </h3>
 
 ---
-<img align= "right" src="https://user-images.githubusercontent.com/93158698/190493066-60f35d07-da31-4646-8804-13ddbbf869d3.gif" width="400" height="230" />
-
 
 <h2>Contact me Via :</h2>
 <p align="left">
@@ -19,10 +17,47 @@
 <h2 align="left">Languages :</h2>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 
+<h2 align="left">Satr Achievements :</h2>
+
+<div align='center'><a target='_blank' href='https://satr.codes/courses/MxhtosVATL/view'>
+    <img align='center' alt='JavaScript 101' src='https://assets.safcsp.cloud/badges/badges-44.png' width='90.0' height='90.0'/>
+</a>    
+
+<a target='_blank' href='https://satr.codes/courses/lnCDammOOq/view'>
+    <img align='center' alt='JavaScript 102' src='https://assets.safcsp.cloud/badges/badges-44.png' width='90.0' height='90.0'/>
+</a>    
+
+<a target='_blank' href='https://satr.codes/courses/rRUQyVDkwQ/view'>
+    <img align='center' alt='Python 101' src='https://assets.safcsp.cloud/badges/badges-45.png' width='90.0' height='90.0'/>
+</a>    
+
+<a target='_blank' href='https://satr.codes/courses/VIvMvhyCiV/view'>
+    <img align='center' alt='Python 102' src='https://assets.safcsp.cloud/badges/badges-45.png' width='90.0' height='90.0'/>
+</a>    
+
+<a target='_blank' href='https://satr.codes/courses/MvNhowmHeB/view'>
+    <img align='center' alt='Python 103' src='https://assets.safcsp.cloud/badges/badges-45.png' width='90.0' height='90.0'/>
+</a>    
+
+<a target='_blank' href='https://satr.codes/courses/CATspNvVjT/view'>
+    <img align='center' alt='HTML' src='https://assets.safcsp.cloud/badges/badges-54.png' width='90.0' height='90.0'/>
+</a>    
+
+<a target='_blank' href='https://satr.codes/courses/hNUwyBUKmF/view'>
+    <img align='center' alt='CSS' src='https://assets.safcsp.cloud/badges/badges-53.png' width='90.0' height='90.0'/>
+</a>    
+
+<a target='_blank' href='https://satr.codes/courses/FdteTVpysF/view'>
+    <img align='center' alt='Docker 101' src='https://assets.safcsp.cloud/badges/badges-60.png' width='90.0' height='90.0'/>
+</a>    
+</div>
+
 <h2 align="left">
 List of Projects:
 </h2>
 
-1.[OOP2 Project ](https://github.com/Abdulrhmanmg0/Abdulrhmanmg0/blob/59ca083be1ee28f8e31d90a26a1898d811b456ed/First-project-OOP2)
+1. [Visualizing Sorting Algorithm JAVA ( 12 / 2022 ) ](https://github.com/Abdulrhmanmg0/Sorting-Algorithms-Visualizing)
+
+2. [First OOP2 Project JAVA ( 11 / 2022 ) ](https://github.com/Abdulrhmanmg0/OOP2-Project-Java)
 
 ---
