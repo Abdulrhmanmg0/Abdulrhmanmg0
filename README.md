@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Abdulrhman alghamdi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrhmanmg0&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrhmanmg0" /> </p>
 
-<h3 align="center">I just started my journey in Ai ,I will do my best to share every little project here from things related to Ai ,web development ,desktop app ,IOS app and University projects every project will have a link below. </h3>
+<h3 align="center">Artificial Intelligence student at University of Jeddah Intrested in Machine Learning , Deep Learning , Computer Vision and Robotics.</h3>
 
 ---
 
@@ -56,8 +56,10 @@
 List of Projects:
 </h2>
 
-1. [Visualizing Sorting Algorithm JAVA ( 12 / 2022 ) ](https://github.com/Abdulrhmanmg0/Sorting-Algorithms-Visualizing)
+1. [Patter Recognition Project SVM ( 5 / 2023 ) ](https://github.com/Abdulrhmanmg0/Pattern-Recognition-SVM-project)
 
-2. [First OOP2 Project JAVA ( 11 / 2022 ) ](https://github.com/Abdulrhmanmg0/OOP2-Project-Java)
+2. [Visualizing Sorting Algorithm JAVA ( 12 / 2022 ) ](https://github.com/Abdulrhmanmg0/Sorting-Algorithms-Visualizing)
+
+3. [First OOP2 Project JAVA ( 11 / 2022 ) ](https://github.com/Abdulrhmanmg0/OOP2-Project-Java)
 
 ---
