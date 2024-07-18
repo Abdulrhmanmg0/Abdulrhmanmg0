@@ -20,17 +20,17 @@
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-
+<!--
 <>
-<><h2 align="left">
-<>List of Projects:
-<></h2>
+<> <h2 align="left">
+<> List of Projects:
+<> </h2>
 <>
-<>1. [Patter Recognition Project SVM ( 5 / 2023 ) ](https://github.com/Abdulrhmanmg0/Pattern-Recognition-SVM-project)
+<> 1. [Patter Recognition Project SVM ( 5 / 2023 ) ](https://github.com/Abdulrhmanmg0/Pattern-Recognition-SVM-project)
 <>
-<>2. [Visualizing Sorting Algorithm JAVA ( 12 / 2022 ) ](https://github.com/Abdulrhmanmg0/Sorting-Algorithms-Visualizing)
+<> 2. [Visualizing Sorting Algorithm JAVA ( 12 / 2022 ) ](https://github.com/Abdulrhmanmg0/Sorting-Algorithms-Visualizing)
 <>
-<>3. [First OOP2 Project JAVA ( 11 / 2022 ) ](https://github.com/Abdulrhmanmg0/OOP2-Project-Java)
+<> 3. [First OOP2 Project JAVA ( 11 / 2022 ) ](https://github.com/Abdulrhmanmg0/OOP2-Project-Java)
 <>
 ---
-*/
+
