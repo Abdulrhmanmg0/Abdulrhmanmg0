@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Abdulrhman alghamdi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrhmanmg0&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrhmanmg0" /> </p>
 
-<h3 align="center">Seniort Artificial Intelligence student at University of Jeddah Intrested in ML, Dl , CV , Robotics and Data analysis.</h3>
+<h3 align="center">Senior Artificial Intelligence student at University of Jeddah Intrested in ML, Dl , CV , Robotics and Data analysis.</h3>
 
 ---
 
@@ -21,7 +21,7 @@
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 
-
+/*
 <h2 align="left">
 List of Projects:
 </h2>
@@ -33,3 +33,4 @@ List of Projects:
 3. [First OOP2 Project JAVA ( 11 / 2022 ) ](https://github.com/Abdulrhmanmg0/OOP2-Project-Java)
 
 ---
+*/
