@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Abdulrhman alghamdi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrhmanmg0&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrhmanmg0" /> </p>
 
-<h3 align="center">Senior Artificial Intelligence student at University of Jeddah Intrested in ML, Dl , CV , Robotics and Data analysis.</h3>
+<h3 align="center">Recently Graduated in Artificial Intelligence from University of Jeddah. Expert in Machine Learning , Deep Learning , Robotics and Data analysis.</h3>
 
 ---
 
